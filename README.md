@@ -138,3 +138,7 @@ The suite installs the kit into temporary repositories and drives the real scrip
 arming limits, every fail-closed path, role and size checks, the full round trip up to the cycle
 cap, the stop hook, the guard hook's allow and deny lists, and the installer's merge and upgrade
 behavior. CI runs it on Linux and Windows under Python 3.10 and 3.12.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
